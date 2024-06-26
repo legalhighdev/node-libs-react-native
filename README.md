@@ -1,3 +1,7 @@
+# change
+
+delete process import line
+
 # node-libs-react-native
 
 This package provides React Native compatible implementations of Node core modules like `stream` and `http`. This is a fork of [node-libs-browser][] with a few packages swapped to be compatible in React Native.
